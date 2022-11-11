@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ACApplication/app/src/main/res/drawable/border.xml" value="0.1085" />
+        <entry key="..\:/ACApplication/app/src/main/res/drawable/bottom_rectangle.xml" value="0.1085" />
+        <entry key="..\:/ACApplication/app/src/main/res/drawable/ic_add.xml" value="0.1085" />
+        <entry key="..\:/ACApplication/app/src/main/res/drawable/rectangle.xml" value="0.1085" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/activity_add_client.xml" value="0.17074275362318841" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/activity_add_invoice.xml" value="0.18" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/activity_add_payment.xml" value="0.2" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/activity_add_spend.xml" value="0.18" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/dialog_add_client.xml" value="0.18" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/item_recycler_activity_main_details.xml" value="0.2" />
+        <entry key="..\:/ACApplication/app/src/main/res/layout/item_recycler_main_activity_names.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
