@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_no_photo.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_no_photo.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_rectangle.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_client.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_client.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_activity_add_client.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_add_client.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-pngs-51:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_activity_add_payment.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_add_payment.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_radius_border.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\radius_border.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_spend.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_spend.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_add_photo.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_add_photo.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_activity_add_invoice.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_add_invoice.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_article.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_article.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_item_recycler_main_activity_names.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\item_recycler_main_activity_names.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_add_person.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_add_person.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_bottom_rectangle.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\bottom_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_payment.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_payment.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_up_arrow.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_up_arrow.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_dialog_add_client.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\dialog_add_client.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_item_recycler_activity_main_details.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\item_recycler_activity_main_details.xml"
+    },
+    {
+        "merged": "com.example.acapplication.app-merged_res-56:/drawable_ic_person.png.flat",
+        "source": "com.example.acapplication.app-main-58:/drawable/ic_person.png"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_invoice.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_invoice.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_border.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\anim_slide_out_anim.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\anim\\slide_out_anim.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\anim_slide_in_anim.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\anim\\slide_in_anim.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\layout_activity_add_spend.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_add_spend.xml"
+    },
+    {
+        "merged": "com.example.acapplication.app-merged_res-56:/layout_activity_profile.xml.flat",
+        "source": "com.example.acapplication.app-main-58:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-merged_res-56:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "com.example.acapplication.app-merged_res-56:/layout_activity_add_client.xml.flat",
+        "source": "com.example.acapplication.app-main-58:/layout/activity_add_client.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\activity_profile.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\item_recycler_activity_main_details.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\item_recycler_activity_main_details.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\activity_add_spend.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_add_spend.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\item_recycler_main_activity_names.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\item_recycler_main_activity_names.xml"
+    },
+    {
+        "merged": "com.example.acapplication.app-mergeDebugResources-55:/layout/activity_profile.xml",
+        "source": "com.example.acapplication.app-main-58:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\dialog_add_client.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\dialog_add_client.xml"
+    },
+    {
+        "merged": "com.example.acapplication.app-mergeDebugResources-55:/layout/activity_add_client.xml",
+        "source": "com.example.acapplication.app-main-58:/layout/activity_add_client.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\activity_add_client.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_add_client.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\activity_add_invoice.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_add_invoice.xml"
+    },
+    {
+        "merged": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-mergeDebugResources-55:\\layout\\activity_add_payment.xml",
+        "source": "C:\\Android\\android-sdk\\android-sdk\\daemon\\7.3.3\\com.example.acapplication.app-main-58:\\layout\\activity_add_payment.xml"
+    }
+]

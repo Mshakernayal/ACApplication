@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.acapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\ACApplication\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\ACApplication\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\ACApplication\app\src\main\AndroidManifest.xml:6:5-80
+11-->D:\ACApplication\app\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\ACApplication\app\src\main\AndroidManifest.xml:7:5-81
+12-->D:\ACApplication\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.CALL_PHONE" />
+13-->D:\ACApplication\app\src\main\AndroidManifest.xml:8:5-68
+13-->D:\ACApplication\app\src\main\AndroidManifest.xml:8:22-66
+14
+15    <application
+15-->D:\ACApplication\app\src\main\AndroidManifest.xml:10:5-47:19
+16        android:name="com.example.acapplication.data.application.AcApplication"
+16-->D:\ACApplication\app\src\main\AndroidManifest.xml:11:9-80
+17        android:allowBackup="true"
+17-->D:\ACApplication\app\src\main\AndroidManifest.xml:12:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.8.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\156d721828c592ad8897b8c60458ba94\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+19        android:dataExtractionRules="@xml/data_extraction_rules"
+19-->D:\ACApplication\app\src\main\AndroidManifest.xml:13:9-65
+20        android:debuggable="true"
+21        android:fullBackupContent="@xml/backup_rules"
+21-->D:\ACApplication\app\src\main\AndroidManifest.xml:14:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->D:\ACApplication\app\src\main\AndroidManifest.xml:15:9-43
+23        android:label="@string/app_name"
+23-->D:\ACApplication\app\src\main\AndroidManifest.xml:16:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->D:\ACApplication\app\src\main\AndroidManifest.xml:17:9-54
+25        android:supportsRtl="true"
+25-->D:\ACApplication\app\src\main\AndroidManifest.xml:18:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.ACApplication" >
+27-->D:\ACApplication\app\src\main\AndroidManifest.xml:19:9-51
+28        <activity
+28-->D:\ACApplication\app\src\main\AndroidManifest.xml:21:9-23:40
+29            android:name="com.example.acapplication.view.activity.AddClientActivity"
+29-->D:\ACApplication\app\src\main\AndroidManifest.xml:22:13-60
+30            android:exported="false" />
+30-->D:\ACApplication\app\src\main\AndroidManifest.xml:23:13-37
+31        <activity
+31-->D:\ACApplication\app\src\main\AndroidManifest.xml:24:9-26:40
+32            android:name="com.example.acapplication.view.activity.AddPaymentActivity"
+32-->D:\ACApplication\app\src\main\AndroidManifest.xml:25:13-61
+33            android:exported="false" />
+33-->D:\ACApplication\app\src\main\AndroidManifest.xml:26:13-37
+34        <activity
+34-->D:\ACApplication\app\src\main\AndroidManifest.xml:27:9-29:40
+35            android:name="com.example.acapplication.view.activity.AddInvoiceActivity"
+35-->D:\ACApplication\app\src\main\AndroidManifest.xml:28:13-61
+36            android:exported="false" />
+36-->D:\ACApplication\app\src\main\AndroidManifest.xml:29:13-37
+37        <activity
+37-->D:\ACApplication\app\src\main\AndroidManifest.xml:30:9-34:70
+38            android:name="com.example.acapplication.view.activity.ProfileActivity"
+38-->D:\ACApplication\app\src\main\AndroidManifest.xml:31:13-58
+39            android:exported="false"
+39-->D:\ACApplication\app\src\main\AndroidManifest.xml:32:13-37
+40            android:label="@string/title_activity_profile"
+40-->D:\ACApplication\app\src\main\AndroidManifest.xml:33:13-59
+41            android:theme="@style/Theme.ACApplication.NoActionBar" />
+41-->D:\ACApplication\app\src\main\AndroidManifest.xml:34:13-67
+42        <activity
+42-->D:\ACApplication\app\src\main\AndroidManifest.xml:35:9-37:40
+43            android:name="com.example.acapplication.view.activity.AddSpendActivity"
+43-->D:\ACApplication\app\src\main\AndroidManifest.xml:36:13-59
+44            android:exported="false" />
+44-->D:\ACApplication\app\src\main\AndroidManifest.xml:37:13-37
+45        <activity
+45-->D:\ACApplication\app\src\main\AndroidManifest.xml:38:9-46:20
+46            android:name="com.example.acapplication.view.activity.MainActivity"
+46-->D:\ACApplication\app\src\main\AndroidManifest.xml:39:13-55
+47            android:exported="true" >
+47-->D:\ACApplication\app\src\main\AndroidManifest.xml:40:13-36
+48            <intent-filter>
+48-->D:\ACApplication\app\src\main\AndroidManifest.xml:41:13-45:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->D:\ACApplication\app\src\main\AndroidManifest.xml:42:17-69
+49-->D:\ACApplication\app\src\main\AndroidManifest.xml:42:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->D:\ACApplication\app\src\main\AndroidManifest.xml:44:17-77
+51-->D:\ACApplication\app\src\main\AndroidManifest.xml:44:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <uses-library
+55-->[androidx.window:window:1.0.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\738d293f5ec15f6e4cd7c7a5f92b95d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+56            android:name="androidx.window.extensions"
+56-->[androidx.window:window:1.0.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\738d293f5ec15f6e4cd7c7a5f92b95d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\738d293f5ec15f6e4cd7c7a5f92b95d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+58        <uses-library
+58-->[androidx.window:window:1.0.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\738d293f5ec15f6e4cd7c7a5f92b95d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+59            android:name="androidx.window.sidecar"
+59-->[androidx.window:window:1.0.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\738d293f5ec15f6e4cd7c7a5f92b95d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+60            android:required="false" />
+60-->[androidx.window:window:1.0.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\738d293f5ec15f6e4cd7c7a5f92b95d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\0be63d928590c1396ba0a11010ec2035\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\0be63d928590c1396ba0a11010ec2035\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+64            android:authorities="com.example.acapplication.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\0be63d928590c1396ba0a11010ec2035\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\0be63d928590c1396ba0a11010ec2035\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\0be63d928590c1396ba0a11010ec2035\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\0be63d928590c1396ba0a11010ec2035\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Android\android-sdk\android-sdk\caches\transforms-3\0be63d928590c1396ba0a11010ec2035\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Android\android-sdk\android-sdk\caches\transforms-3\67f1be7345b10bb1a9dcde50dcde63a2\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Android\android-sdk\android-sdk\caches\transforms-3\67f1be7345b10bb1a9dcde50dcde63a2\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Android\android-sdk\android-sdk\caches\transforms-3\67f1be7345b10bb1a9dcde50dcde63a2\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+72        </provider>
+73
+74        <service
+74-->[androidx.room:room-runtime:2.4.2] C:\Android\android-sdk\android-sdk\caches\transforms-3\488be7e54f5f73b064117a49d2314d33\transformed\room-runtime-2.4.2\AndroidManifest.xml:25:9-28:40
+75            android:name="androidx.room.MultiInstanceInvalidationService"
+75-->[androidx.room:room-runtime:2.4.2] C:\Android\android-sdk\android-sdk\caches\transforms-3\488be7e54f5f73b064117a49d2314d33\transformed\room-runtime-2.4.2\AndroidManifest.xml:26:13-74
+76            android:directBootAware="true"
+76-->[androidx.room:room-runtime:2.4.2] C:\Android\android-sdk\android-sdk\caches\transforms-3\488be7e54f5f73b064117a49d2314d33\transformed\room-runtime-2.4.2\AndroidManifest.xml:27:13-43
+77            android:exported="false" />
+77-->[androidx.room:room-runtime:2.4.2] C:\Android\android-sdk\android-sdk\caches\transforms-3\488be7e54f5f73b064117a49d2314d33\transformed\room-runtime-2.4.2\AndroidManifest.xml:28:13-37
+78    </application>
+79
+80</manifest>
